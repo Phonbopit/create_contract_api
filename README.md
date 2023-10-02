@@ -2,6 +2,16 @@
 
 Rust API for create and deploy a smart contract.
 
+```shell
+# start server at localhost:7777
+cargo run
+```
+
+## API
+
+- `POST /api/contracts` - Create a new contract
+- `GET /api/{contract_address}/total_supply` - Get total supply of token
+
 ## References
 
 - https://docs.moonbeam.network/builders/build/eth-api/libraries/ethersrs/
