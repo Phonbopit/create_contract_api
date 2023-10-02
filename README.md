@@ -2,6 +2,11 @@
 
 Rust API for create and deploy a smart contract.
 
+## References
+
+- https://docs.moonbeam.network/builders/build/eth-api/libraries/ethersrs/
+- https://github.com/gakonst/ethers-rs
+
 ## Usage
 
 ### Build
