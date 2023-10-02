@@ -3,3 +3,6 @@
 # compiler files
 cache/
 foundry-out/
+
+
+.env
